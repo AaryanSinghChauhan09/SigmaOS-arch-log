@@ -2,7 +2,7 @@
 name = "arch-log"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-log component - Inspired by Arch Linux and Debian"
+description = "SigmaOS SigmaOS-arch-log component - SigmaOS component"
 license = "MIT"
 repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-log"
 
